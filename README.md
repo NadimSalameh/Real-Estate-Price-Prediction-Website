@@ -49,7 +49,7 @@ During model building I will use many data science concepts such as **data load 
 * Now connect to your instance using this command :
 
 ```console
-ssh -i "C:\Users\Viral\.ssh\Banglore.pem" ubuntu@ec2-3-133-88-210.us-east-2.compute.amazonaws.com*
+ssh -i "C:\Users\Viral\.ssh\Banglore.pem" ubuntu@ec2-3-133-88-210.us-east-2.compute.amazonaws.com
 ```
 * nginx setup:
 i.Install nginx on EC2 instance using these commands:
